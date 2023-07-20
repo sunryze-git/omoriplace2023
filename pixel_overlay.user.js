@@ -18,7 +18,9 @@ if (window.top !== window.self) {
         };
       
         // Add the image as overlay
-        const camera = document.querySelector("garlic-bread-embed").shadowRoot.querySelector("garlic-bread-camera");
+        const layout = document.querySelector("garlic-bread-embed").shadowRoot.querySelector("div.layout");
+        const container = layout.querySelector("garlic-bread-share-container");
+        const camera = container.querySelector("garlic-bread-camera");
         const canvas = camera.querySelector("garlic-bread-canvas");
         canvas.shadowRoot.querySelector('.container').appendChild(image);
       
