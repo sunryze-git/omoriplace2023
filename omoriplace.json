@@ -11,5 +11,17 @@
             "x": 197,
             "y": 241
         }
+    ],
+    "whitelist": [
+        {
+            "name": "r/hatsune",
+            "url": "https://hatsune.proxnet.dev/place/overlayRaw"
+        }
+    ],
+    "blacklist": [
+        {
+            "name": "r/omori",
+            "url": "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/omoriplace.json"
+        }
     ]
 }
