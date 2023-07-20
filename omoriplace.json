@@ -1,0 +1,15 @@
+{
+    "faction": "/r/omori",
+    "contact": "omocord",
+    "notifications": "?????",
+    "templates": [
+        {
+            "name": "OMORI Picnic Table",
+            "sources": [
+                "https://github.com/sunryze-git/omoriplace2023/blob/main/output.png?raw=true"
+            ],
+            "x": 303,
+            "y": 259
+        }
+    ]
+}
