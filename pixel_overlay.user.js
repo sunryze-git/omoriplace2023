@@ -10,29 +10,14 @@
 // ==/UserScript==
 if (window.top !== window.self) {
     window.addEventListener('load', () => {
-        // Load the image
-        const image = document.createElement("img");
-        image.src = "https://github.com/sunryze-git/omoriplace2023/raw/main/output.png";
-        image.onload = () => {
-            image.style = `position: absolute; left: 0; top: 0; width: ${image.width/3}px; height: ${image.height/3}px; image-rendering: pixelated; z-index: 1`;
-        };
-      
-        // Add the image as overlay
-        const layout = document.querySelector("garlic-bread-embed").shadowRoot.querySelector("div.layout");
-        const container = layout.querySelector("garlic-bread-share-container");
-        const camera = container.querySelector("garlic-bread-camera");
-        const canvas = camera.querySelector("garlic-bread-canvas");
-        canvas.shadowRoot.querySelector('.container').appendChild(image);
-      
-        // Add a style to put a hole in the pixel preview (to see the current or desired color)
-        const waitForPreview = setInterval(() => {
-            const preview = camera.querySelector("garlic-bread-pixel-preview");
-            if (preview) {
-              clearInterval(waitForPreview);
-              const style = document.createElement('style')
-              style.innerHTML = '.pixel { clip-path: polygon(-20% -20%, -20% 120%, 37% 120%, 37% 37%, 62% 37%, 62% 62%, 37% 62%, 37% 120%, 120% 120%, 120% -20%); }'
-              preview.shadowRoot.appendChild(style);
-            }
-        }, 100);
+            document.getElementsByTagName("garlic-bread-embed")[0].shadowRoot.children[0].getElementsByTagName("garlic-bread-canvas")[0].shadowRoot.children[0].appendChild(
+        (function () {
+            const i = document.createElement("img");
+            i.src = "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/output.png";
+            i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 2000px;";
+            console.log(i);
+            return i;
+        })())
+
     }, false);
 }
