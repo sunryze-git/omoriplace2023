@@ -18,14 +18,6 @@
             ],
             "x": 590,
             "y": 665
-        },
-        {
-            "name": "OMORI TWO",
-            "sources": [
-                "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/second.png"
-            ],
-            "x": 1262,
-            "y": 719
         }
     ],
     "whitelist": [
