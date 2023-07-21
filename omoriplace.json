@@ -10,6 +10,14 @@
             ],
             "x": 197,
             "y": 241
+        },
+        {
+            "name": "Canadian Flag",
+            "sources": [
+                "https://d35ule242s0wem.cloudfront.net/overlay.plain.png"
+            ],
+            "x": 590,
+            "y": 665
         }
     ],
     "whitelist": [
