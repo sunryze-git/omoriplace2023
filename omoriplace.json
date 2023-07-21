@@ -22,7 +22,7 @@
         {
             "name": "OMORI TWO",
             "sources": [
-                "https://github.com/sunryze-git/omoriplace2023/blob/main/second.png?raw=true"
+                "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/second.png"
             ],
             "x": 1116,
             "y": 704
