@@ -40,7 +40,7 @@
             "sources": [
                 "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/second.png"
             ],
-            "x": -102,
+            "x": -80,
             "y": 132
         },
         {
@@ -48,7 +48,7 @@
             "sources": [
                 "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/second.png"
             ],
-            "x": 1100,
+            "x": 1005,
             "y": -300
         }
     ],
