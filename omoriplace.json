@@ -8,7 +8,7 @@
                 "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/output.png"
             ],
             "x": 697,
-            "y": 241
+            "y": 741
         },
         {
             "name": "OMORI Portrait",
@@ -16,7 +16,7 @@
                 "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/second.png"
             ],
             "x": 293,
-            "y": 818
+            "y": 1318
         },
         {
             "name": "OMORI SpaceView",
@@ -24,7 +24,7 @@
                 "https://raw.githubusercontent.com/Ayaya-Xiao/omoriplace2023bis/main/third.png"
             ],
             "x": 1674,
-            "y": 1010
+            "y": 1510
         }
     ],
     "whitelist": [
