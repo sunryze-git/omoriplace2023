@@ -5,7 +5,7 @@
         {
             "name": "OMORI Picnic Table",
             "sources": [
-                "https://github.com/sunryze-git/omoriplace2023/blob/main/output.png?raw=true"
+                "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/output.png"
             ],
             "x": 697,
             "y": 241
@@ -13,10 +13,10 @@
         {
             "name": "OMORI Portrait",
             "sources": [
-                "https://raw.githubusercontent.com/Ayaya-Xiao/omoriplace2023bis/main/second.png"
+                "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/second.png"
             ],
-            "x": 342,
-            "y": 827
+            "x": 327,
+            "y": 815
         },
         {
             "name": "OMORI SpaceView",
