@@ -1,61 +1,36 @@
 {
     "faction": "/r/omori",
-    "contact": "omocord",
-    "notifications": "?????",
+    "contact": "https://discord.gg/omori",
     "templates": [
         {
             "name": "OMORI Picnic Table",
             "sources": [
                 "https://github.com/sunryze-git/omoriplace2023/blob/main/output.png?raw=true"
             ],
-            "x": 197,
+            "x": 697,
             "y": 241
         },
         {
-            "name": "Canadian Flag",
+            "name": "OMORI Portrait",
             "sources": [
-                "https://d35ule242s0wem.cloudfront.net/overlay.plain.png"
+                "https://raw.githubusercontent.com/Ayaya-Xiao/omoriplace2023bis/main/second.png"
             ],
-            "x": 590,
-            "y": 665
+            "x": 342,
+            "y": 827
         },
         {
-            "name": "OMORI Portrait Preparations 1",
+            "name": "OMORI SpaceView",
             "sources": [
-                "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/second.png"
+                "https://raw.githubusercontent.com/Ayaya-Xiao/omoriplace2023bis/main/third.png"
             ],
-            "x": 1500,
-            "y": 132
-        },
-        {
-            "name": "OMORI Portrait Preparations 2",
-            "sources": [
-                "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/second.png"
-            ],
-            "x": 1174,
-            "y": 1200
-        },
-        {
-            "name": "OMORI Portrait Preparations 3",
-            "sources": [
-                "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/second.png"
-            ],
-            "x": -77,
-            "y": 132
-        },
-        {
-            "name": "OMORI Portrait Preparations 4",
-            "sources": [
-                "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/second.png"
-            ],
-            "x": 1100,
-            "y": -300
+            "x": 0,
+            "y": 1010
         }
     ],
     "whitelist": [
         {
-            "name": "r/hatsune",
-            "url": "https://hatsune.proxnet.dev/place/overlayRaw"
+            "name": "Steins;Place",
+            "url": "https://r-steins-place.pages.dev/overlay.json"
         }
     ],
     "blacklist": [
