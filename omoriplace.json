@@ -31,6 +31,10 @@
         {
             "name": "Steins;Place",
             "url": "https://r-steins-place.pages.dev/overlay.json"
+        },
+        {
+            "name": "Indie Alliance v2",
+            "url": "https://gist.githubusercontent.com/AresWacky/926ff6fe925c7268f4a6bceef441469c/raw"
         }
     ],
     "blacklist": [
