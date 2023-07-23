@@ -31,6 +31,10 @@
         {
             "name": "JJK",
             "url": "https://rentry.co/ab6z4/raw"
+        },
+        {
+            "name": "PlaceStart",
+            "url": "https://gist.githubusercontent.com/Jabster28/553c0b989c0a78dde1aa9a082b74d2f2/raw/placestart%2520template.json"
         }
     ],
     "blacklist": [
