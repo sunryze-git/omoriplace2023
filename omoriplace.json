@@ -55,6 +55,10 @@
         {
             "name": "Onepiece",
             "url": "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/oneplace-template.json"
+        },
+        {
+            "name": "Algeria",
+            "url": "https://pastebin.com/raw/qT71srV8"
         }
     ],
     "blacklist": [
