@@ -33,6 +33,14 @@
             ],
             "x": 149,
             "y": 631
+        },
+        {
+            "name": "HIFI RUSH",
+            "sources": [
+                "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/hifirush.png"
+            ],
+            "x": 695,
+            "y": 1386
         }
     ],
     "whitelist": [
