@@ -25,6 +25,14 @@
             ],
             "x": 714,
             "y": 1367
+        },
+        {
+            "name": "SOMETHING",
+            "sources": [
+                "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/something.png"
+            ],
+            "x": 149,
+            "y": 631
         }
     ],
     "whitelist": [
