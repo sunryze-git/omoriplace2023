@@ -17,6 +17,14 @@
             ],
             "x": 293,
             "y": 1279
+        },
+        {
+            "name": "PunPun",
+            "sources": [
+                "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/punpun.png"
+            ],
+            "x": 210,
+            "y": 1367
         }
     ],
     "whitelist": [
