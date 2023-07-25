@@ -67,6 +67,10 @@
         {
             "name": "Algeria",
             "url": "https://pastebin.com/raw/qT71srV8"
+        },
+        {
+            "name": "Genshin",
+            "url": "https://gachaalliance.github.io/place2023/template.json"
         }
     ],
     "blacklist": [
