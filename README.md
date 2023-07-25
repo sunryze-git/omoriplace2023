@@ -1,8 +1,5 @@
 # omoriplace2023
 
-This is a repository to hold such files:
+# Thank you all so much for having me manage the overlay for you all. It was truly an honor to have this responsibility.
 
-- Primary template artpieces
-- Backup template artpieces
-- Scripts to convert the templates to an overlay.PNG
-- The overlay extension for use with TamperMonkey or other JavaScript loaders
+# - sunryze
